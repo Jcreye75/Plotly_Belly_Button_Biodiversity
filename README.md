@@ -17,17 +17,17 @@ This new assignment consists of four technical analysis deliverables. You will s
 1. Deliverable 1: Create a Horizontal Bar Chart
 An horizontal Bar Chart has been added and its updated when the Test Subject ID is selected.
 
-#![BarChart.png](https://github.com/Jcreye75/Plotly_Belly_Button_Biodiversity/blob/15060d490cc6957f442ca2cb37e0626bef0001d8/resources/BarChart.png)
+![BarChart.png](https://github.com/Jcreye75/Plotly_Belly_Button_Biodiversity/blob/15060d490cc6957f442ca2cb37e0626bef0001d8/resources/BarChart.png)
 
 2. Deliverable 2: Create a Bubble Chart
 A bubble Chart has been added and its updated when the Test Subject ID is selected.
 
-#![Bubblechart.png](https://github.com/Jcreye75/Plotly_Belly_Button_Biodiversity/blob/15060d490cc6957f442ca2cb37e0626bef0001d8/resources/Bubblechart.png)
+![Bubblechart.png](https://github.com/Jcreye75/Plotly_Belly_Button_Biodiversity/blob/15060d490cc6957f442ca2cb37e0626bef0001d8/resources/Bubblechart.png)
 
 3. Deliverable 3: Create a Gauge Chart
 A gauge Chart has been added and its updated when the Test Subject ID is selected.
 
-#![GaugeChart.png](https://github.com/Jcreye75/Plotly_Belly_Button_Biodiversity/blob/15060d490cc6957f442ca2cb37e0626bef0001d8/resources/GaugeChart.png)
+![GaugeChart.png](https://github.com/Jcreye75/Plotly_Belly_Button_Biodiversity/blob/15060d490cc6957f442ca2cb37e0626bef0001d8/resources/GaugeChart.png)
 
 4. Deliverable 4: Customize the Dashboard
 The dash board was customized as follows:
@@ -36,6 +36,9 @@ The dash board was customized as follows:
 - Used a custom font with contrast for the colors. (RED)
 - Added more information about the project as a paragraph on the page.
 - Changed the layout of the page.
+
+# MAIN Visualization:
+https://jcreye75.github.io/Plotly_Belly_Button_Biodiversity/
 
 Regards,
 
