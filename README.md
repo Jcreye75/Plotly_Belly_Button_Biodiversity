@@ -21,13 +21,15 @@ An horizontal Bar Chart has been added and its updated when the Test Subject ID 
 
 2. Deliverable 2: Create a Bubble Chart
 A bubble Chart has been added and its updated when the Test Subject ID is selected.
+
 #![Bubblechart.png](https://github.com/Jcreye75/Plotly_Belly_Button_Biodiversity/blob/15060d490cc6957f442ca2cb37e0626bef0001d8/resources/Bubblechart.png)
 
 3. Deliverable 3: Create a Gauge Chart
 A gauge Chart has been added and its updated when the Test Subject ID is selected.
+
 #![GaugeChart.png](https://github.com/Jcreye75/Plotly_Belly_Button_Biodiversity/blob/15060d490cc6957f442ca2cb37e0626bef0001d8/resources/GaugeChart.png)
 
-- Deliverable 4: Customize the Dashboard
+4. Deliverable 4: Customize the Dashboard
 The dash board was customized as follows:
 - Added an image to the jumbotron.
 - Added background color or a variety of compatible colors to the webpage (Gray)
